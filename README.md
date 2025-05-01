@@ -25,10 +25,11 @@
 <a href="https://www.tiktok.com/@claraluzllopes" target="_blank">
   <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
-
 </div>
 
 ## 
-**✨ GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claraluzlopes&show_icons=true)
+<div>
+         <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=claraluzlopes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+         <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraluzlopes&layout=compact&langs_count=7&theme=jolly"/> 
+</div>
